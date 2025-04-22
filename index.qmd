@@ -1,0 +1,17 @@
+
+
+---
+title: "Welcome"
+format: html
+---
+
+
+## Welcome to My Portfolio
+
+Hello and welcome! I’m Ritusri Mohan—a data-driven problem solver passionate about transforming information into actionable insights. With a background in Applied Business Analytics, Data Science, and Digital Marketing, I bring a unique blend of technical expertise and creative strategy to every project.
+
+From analyzing market trends and building predictive models to crafting engaging digital campaigns, my journey spans industries and continents. Here, you’ll find highlights of my work in data analytics, social media management, and collaborative business solutions.
+
+Explore my portfolio to discover how I turn complex challenges into opportunities for growth and innovation. Let’s connect and create something impactful together!
+
+

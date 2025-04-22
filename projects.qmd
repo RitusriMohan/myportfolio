@@ -1,0 +1,41 @@
+From your resume, your GitHub link is: `https://github.com/ritusri4`.
+
+Here’s content for your "Projects and Internships" page, incorporating details from your resume:
+
+## Projects and Internships
+
+### Projects
+
+**Capstone Project: Leveraging Digital Tools for Stakeholder Management in A Collaborative Business Model**
+
+*   Analyzed partner relationships within the ecosystem of RailWire.
+*   Explored touch points and interactions to enhance understanding and improve overall ecosystem efficiency.
+
+**Customer Churn in DTH Company**
+
+*   Conducted exploratory data analysis and developed a churn prediction model for a Direct-to-Home (DTH) company.
+*   Provided analytical insights and business recommendations based on the findings.
+
+### Internships
+
+**Zenoti, Hyderabad (Feb’23-May’23)**
+
+*   Conducted data analysis using Python and Excel.
+*   Developed a Python algorithm to identify client attrition thresholds.
+*   Evaluated revenue potential by appraising gift cards and mobile applications.
+*   Presented and implemented business concepts, earning acceptance from Zenoti management.
+
+**RailTel Corporation of India Ltd, Hyderabad (Feb’21-Aug’21)**
+
+*   Conducted comprehensive marketing analysis to identify market trends, customer behavior, and competitive landscapes.
+*   Contributed to strategic decision-making by providing valuable insights based on the analysis of market data.
+*   Developed a deeper understanding of the telecommunications industry.
+
+**National Mineral Development Corporation (NMDC), Hyderabad (Jun’19-Jul’19)**
+
+*   Conducted industrial training focused on the "Analysis of Iron Ore Grade" extracted from NMDC mines.
+*   Applied analytical techniques to assess the quality and characteristics of iron ore.
+*   Gained practical insights into the mining industry and hands-on experience with ore analysis.
+
+This is the link to my github page:https://github.com/RitusriMohan/Tech_Insight_Hub
+This is the link to academic portfolio:https://eportfolio.mygreatlearning.com/ritusri-mohan

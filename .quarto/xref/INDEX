@@ -1,0 +1,26 @@
+{
+  "projects.qmd": {
+    "projects.html": "4098eb81"
+  },
+  "quarto create contact.qmd/about.qmd": {
+    "about.html": "d4254fc6"
+  },
+  "quarto create contact.qmd/index.qmd": {
+    "index.html": "e6016f83"
+  },
+  "about.qmd": {
+    "about.html": "cd3276cd"
+  },
+  "contact.qmd": {
+    "contact.html": "d0c99822"
+  },
+  "index.qmd": {
+    "index.html": "641c666c"
+  },
+  "quarto create project website myportfolio/about.qmd": {
+    "about.html": "64e3d087"
+  },
+  "quarto create project website myportfolio/index.qmd": {
+    "index.html": "881fc311"
+  }
+}
